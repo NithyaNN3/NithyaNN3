@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Nithya 👋
+I currently study Master's of Information Technology at RMIT University. 
+When I'm not busy with coursework, I spend my time reading fiction, learning new things, writing or occasionally - a good video game. 
 
-<!--
-**NithyaNN3/NithyaNN3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Interests 
+- Cybersecurity - [Notes](https://github.com/NithyaNN3/cybersec)
+- Database Systems - [Notes](https://github.com/NithyaNN3/System-design/tree/main/Databases)
+- System Design - [Notes](https://github.com/NithyaNN3/System-design/)
 
-Here are some ideas to get you started:
+## About Me
+- Creative Writing Officer for our college magazine - [RMIT Catalyst](https://www.rusu.rmit.edu.au/catalyst)
+- Treasurer - Females in RMIT Engineering
+- Volunteer at [RSPCA Victoria](https://rspcavic.org/) - a cause that's close to my heart
+- Worked as a Waitress/Bartender at a Hotel on the side 🥃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
