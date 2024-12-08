@@ -3,7 +3,7 @@ I currently study Master's of Information Technology at RMIT University.
 When I'm not busy with coursework, I spend my time reading fiction, learning new things, writing or occasionally - a good video game. 
 
 ## About Me
-Electrical and electronics grad with 2 years of software engineering experience in India. Currently back to school. :school_satchel:
+Electrical and electronics grad with 2 years of software engineering experience in India. Currently back in school. :school_satchel:
 
 Some extracurriculars I'm involved in
 - Creative Writing Officer for our college magazine - [RMIT Catalyst](https://www.rusu.rmit.edu.au/catalyst)
