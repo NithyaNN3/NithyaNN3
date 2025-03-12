@@ -3,7 +3,7 @@ I currently study Master's of Information Technology at RMIT University.
 When I'm not busy with coursework, I spend my time reading fiction, learning new things, writing or occasionally - a good video game. 
 
 ## About Me
-Electrical grad with 2 years of Software Engineering experience in Bangalore, India. Currently back in school. :school_satchel:
+Electrical grad with 2 years of Software Engineering experience. Currently back in school. :school_satchel:
 
 ## Notes
 - Cybersecurity - [Notes](https://github.com/NithyaNN3/cybersec)
@@ -16,4 +16,5 @@ Electrical grad with 2 years of Software Engineering experience in Bangalore, In
 - Creative Writing Officer for our college magazine - [RMIT Catalyst](https://www.rusu.rmit.edu.au/catalyst)
 - Treasurer - Females in RMIT Engineering
 - Volunteer at [RSPCA Victoria](https://rspcavic.org/) - a cause that's close to my heart
-- Worked as a Waitress/Bartender at a Hotel on the side 🥃
+- Worked as a Waitress/Bartender at a Hotel 🥃
+- Work as an English Tutor currently
