@@ -3,7 +3,7 @@ I currently study Master's of Information Technology at RMIT University.
 When I'm not busy with coursework, I spend my time reading fiction, learning new things, writing or occasionally - a good video game. 
 
 ## About Me
-Electrical grad with 2 years of Software Engineering experience. Currently back in school. :school_satchel:
+CS Grad from RMIT University.
 
 ## Notes
 - Cybersecurity - [Notes](https://github.com/NithyaNN3/cybersec)
