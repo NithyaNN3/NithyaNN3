@@ -12,9 +12,3 @@ CS Grad from RMIT University.
 - Golang - [Notes](https://github.com/NithyaNN3/golang-dump/)
 - Docker - [Notes](https://github.com/NithyaNN3/docker/)
 
-## Things I'm involved in 
-- Creative Writing Officer for our college magazine - [RMIT Catalyst](https://www.rusu.rmit.edu.au/catalyst)
-- Treasurer - Females in RMIT Engineering
-- Volunteer at [RSPCA Victoria](https://rspcavic.org/) - a cause that's close to my heart
-- Worked as a Waitress/Bartender at a Hotel 🥃
-- Work as an English Tutor currently
